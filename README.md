@@ -20,6 +20,6 @@
 
 <div align="center">
 	<br>
-		<img src="Github.svg" width="800" height="400" alt="Click to see the source">
+		<img src="new.svg" width="1000" alt="Click to see the source">
 	<br>
 </div>
