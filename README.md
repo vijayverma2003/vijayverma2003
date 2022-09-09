@@ -20,6 +20,6 @@
 
 <div align="center">
 	<br>
-		<img src="new.svg" width="1000" alt="Click to see the source">
+		<img src="new.svg" width="100%" alt="Click to see the source">
 	<br>
 </div>
