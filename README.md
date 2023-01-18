@@ -34,7 +34,3 @@ I have been learning to code for 2 years, and currently, I am a full stack devel
 
 <p align="left"> <a href="https://www.github.com/vijayverma2003" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vijay-verma-84b530214/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/vijayvermakvp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vijayverma2003/vijayverma2003/d031f6e43098cb160f30cd404d61d8db3696f9d9/profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
-
