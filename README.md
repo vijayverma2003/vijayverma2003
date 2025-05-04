@@ -4,7 +4,6 @@ A passionate web developer fueled by curiosity and a love for crafting seamless 
 
 **What I'm Currently Up To:**
 
-* Building a social media app for connecting to people who live nearby.
 * Deep diving into Generative AI.
 * Actively seeking opportunities to contribute my skills to impactful and innovative teams.
 
