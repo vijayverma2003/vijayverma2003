@@ -1,1 +1,1 @@
-## Hi there 👋, I'm Vijay! Thanks for stopping by! ❤️
+Hi there 👋, I'm Vijay! Thanks for stopping by! ❤️
